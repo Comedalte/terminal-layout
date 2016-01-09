@@ -8,9 +8,9 @@ This is an experiment with terminal layout
 
 - Grid with optional border where menus and text can fit
 - Multiple menus changing focus on tab
-- Text views
+- Colored text views, center text 
 
-Menu and text can easaly be colored (text and background).
+Menu and text can easily be colored (text and background).
 
 ### Docs
 
@@ -37,7 +37,7 @@ var grid = layout.grid(3);
  - cols // number of columns
  - border // have border around cells or not, Default: true
 
- #### Text
+#### Text
 
 var text = layout.text("My text string");
 
