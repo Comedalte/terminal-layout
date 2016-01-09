@@ -1,0 +1,23 @@
+{
+  "name": "terminal-layout",
+  "version": "0.0.1",
+  "description": "node terminal layout",
+  "main": "terminal-layout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "terminal",
+    "layout",
+    "menu",
+    "grid",
+    "table"
+  ],
+  "author": "Henrik Andersson",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "keypress": "^0.2.1"
+  }
+}
